@@ -1,0 +1,10 @@
+Package: com.browsky300.windows10theme
+Name: Windows 10 Theme
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A Windows 10 theme
+Author: browsky300 <maxim.bondar@outlook.com>
+Maintainer: browsky300 <maxim.bondar@outlook.com>
+Section: Themes
+Depends: com.spark.snowboard
+Depiction: https://browsky300.github.io/repo/depictions/?p=com.browsky300.windows10theme
